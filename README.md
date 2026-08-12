@@ -29,6 +29,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
+```html:
+<footer>inserted the attribution class text</footer>
+```
+
 ```css: flexbox
 .card-container {
   display: flex;
@@ -43,6 +47,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [camagu](https://www.your-site.com)
+- Frontend Mentor - [@camagu](https://www.frontendmentor.io/profile/yourusername)
