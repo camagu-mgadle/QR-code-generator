@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://camagu-mgadle.github.io/QR-code-generator](https://your-solution-url.com)
-- Live Site URL: [https://qrcodedesigns.netlify.app](https://your-live-site-url.com)
+- Solution URL: [https://camagu-mgadle.github.io/QR-code-generator](https://camagu-mgadle.github.io/QR-code-generator)
+- Live Site URL: [https://qrcodedesigns.netlify.app](https://qrcodedesigns.netlify.app)
 
 ## My process
 
@@ -43,9 +43,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-- Responsive web design
+- Responsive web design:
+  - changed justify content to space evenly.
 
 ## Author
 
-- Website - [camagu](https://www.your-site.com)
-- Frontend Mentor - [@camagu](https://www.frontendmentor.io/profile/yourusername)
+- Website - [camagu](https://[https://qrcodedesigns.netlify.app)
+- Frontend Mentor - [@camagu](https://www.frontendmentor.io/profile/camagu)
