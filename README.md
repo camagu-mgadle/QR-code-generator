@@ -6,10 +6,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Links](#links)
+  - [Screenshort](#Screenshort)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#Continued development)
+  - [Continued development](#Continued-development)
 - [Author](#author)
 
 ## Overview
@@ -18,6 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [https://camagu-mgadle.github.io/QR-code-generator](https://camagu-mgadle.github.io/QR-code-generator)
 - Live Site URL: [https://qrcodedesigns.netlify.app](https://qrcodedesigns.netlify.app)
+
+### Screenshort
+
+- [screenshort](./images/image-qr-code-screenshort.png)
 
 ## My process
 
@@ -29,12 +34,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
+- inserted the attribution class inside a footer element:
+
 ```html:
-<footer>inserted the attribution class text</footer>
+<footer class="attribution">....</footer>
 ```
 
-```css: flexbox
-.card-container {
+- Used the Flexbox layout on the body to center the card:
+
+```css:
+body {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -43,10 +52,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-- Responsive web design:
-  - changed justify content to space evenly.
+- Understanding how to use html attributes for more accessible web content.
+
+- Try to understand the Flex Model:
+  - how to arrange my items in the card container.
 
 ## Author
 
-- Website - [camagu](https://[https://qrcodedesigns.netlify.app)
+- GitHub - [camagu](https://camagu-mgadle.github.io/QR-code-generator)
 - Frontend Mentor - [@camagu](https://www.frontendmentor.io/profile/camagu)
