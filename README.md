@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshort
 
-- [screenshort](./images/image-qr-code-screenshort.png)
+![app screenshort](images/image-qr-code-screenshort.png)
 
 ## My process
 
